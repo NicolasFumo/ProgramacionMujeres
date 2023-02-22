@@ -12,17 +12,3 @@ La cafetera al encenderse solicita los contenidos que ya poseen los 3 contenedor
 de rellenarse cuando este se acaba o queda poco contenido en los mismos, y, mediante un menu, se
 puede elegir que tipo de cafe preparar, en caso de no existir suficiente liquido, se muestra
 un mensaje de "no se puede preparar un cafe", de lo contrario, se indica "Se ha preparado un cafe XXX"
-
--- Variables --
-cantidad de liquidos (cafe, agua y leche)
-tipos de cafe
-recetas del cafe (cantidad de agua, cafe y leche)
-Capacidad maxima
-Capacidad minima
-
--- Funciones --
-Encenderse
-Evaluar liquidos
-Menu
-Recargar
-Preparar
